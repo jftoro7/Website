@@ -1,0 +1,273 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jcpenney.com" resolutions="1x" timestamp="1493600741378">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="376323302" ref="men-s-clearance:coupons:clearance:cart:index"/>
+    <file name="men-s-clearance.css" crc="213845971" ref="men-s-clearance"/>
+    <file name="coupons.css" crc="3787187817" ref="coupons"/>
+    <file name="clearance.css" crc="3893799641" ref="clearance"/>
+    <file name="cart.css" crc="506442606" ref="cart"/>
+    <file name="index.css" crc="429951562" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons:index:clearance:men-s-clearance:cart:coupons"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons:index:clearance:men-s-clearance:cart:coupons"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons:index:clearance:men-s-clearance:cart:coupons"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons:index:clearance:men-s-clearance:cart:coupons"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons:index:clearance:men-s-clearance:cart:coupons"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons"/>
+    <file name="webpro.js" crc="3770351119" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons"/>
+    <file name="touchswipe.js" crc="3912873526" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons:index:clearance:men-s-clearance:cart:coupons"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons:index:clearance:men-s-clearance:cart:coupons"/>
+  </folder>
+  <folder name="images">
+    <file name="clearance_01.jpg" crc="361731059" seo="true" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="clearance_02.jpg" crc="393388734" seo="true" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="clearance_03.jpg" crc="4092945076" seo="true" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="clearance_04.jpg" crc="404788169" seo="true" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="clearance_05.jpg" crc="152017039" seo="true" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="home_02.jpg" crc="191209148" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_03.jpg" crc="135266962" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_04.jpg" crc="4038194875" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clearance_14.jpg" crc="250454214" seo="true" ref="phone>index:phone>clearance:phone>men-s-clearance:phone>cart:phone>coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="clearance_06.jpg" crc="486259262" seo="true" ref="phone>clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_07.jpg" crc="3790120309" seo="true" ref="phone>clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_08.jpg" crc="4086711220" seo="true" ref="phone>clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_09.jpg" crc="4143015888" seo="true" ref="phone>clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_10.jpg" crc="107531011" seo="true" ref="phone>clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_11.jpg" crc="332550147" seo="true" ref="phone>clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_12.jpg" crc="3936344023" seo="true" ref="phone>clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_13.jpg" crc="3918363550" seo="true" ref="phone>clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_02.jpg" crc="4282986302" seo="true" ref="phone>men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_03.jpg" crc="409749503" seo="true" ref="phone>men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_04.jpg" crc="4179180165" seo="true" ref="phone>men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_05.jpg" crc="451829025" seo="true" ref="phone>men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_06.jpg" crc="4233418244" seo="true" ref="phone>men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_07.jpg" crc="4173072375" seo="true" ref="phone>men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="cart_02.jpg" crc="3897102872" seo="true" ref="phone>cart">
+      <caption webpage="cart" alt=""/>
+    </file>
+    <file name="coupons_02-crop-u2097.jpg" crc="4219902124" seo="true" ref="phone>coupons">
+      <caption webpage="coupons" alt=""/>
+    </file>
+    <file name="home_022.jpg" crc="3959817218" seo="true" ref="index:clearance:men-s-clearance:cart:coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="home_032.jpg" crc="17081384" seo="true" ref="index:clearance:men-s-clearance:cart:coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="home_042.jpg" crc="4245393035" seo="true" ref="index:clearance:men-s-clearance:cart:coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="home_05.jpg" crc="86789622" seo="true" ref="index:clearance:men-s-clearance:cart:coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="desktop-pages_01.jpg" crc="4293335010" seo="true" ref="index:clearance:men-s-clearance:cart:coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="desktop-pages_02.jpg" crc="479391177" seo="true" ref="index:clearance:men-s-clearance:cart:coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="home_06.jpg" crc="79995389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_07.jpg" crc="4019267245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_08.jpg" crc="3986921368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_09.jpg" crc="3976240474" seo="true" ref="index:clearance:men-s-clearance:cart:coupons">
+      <caption webpage="index" alt=""/>
+      <caption webpage="coupons" alt=""/>
+      <caption webpage="cart" alt=""/>
+      <caption webpage="clearance" alt=""/>
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="clearance_022.jpg" crc="42723415" seo="true" ref="clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_032.jpg" crc="4245076773" seo="true" ref="clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_042.jpg" crc="3967344926" seo="true" ref="clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_052.jpg" crc="308308910" seo="true" ref="clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_092.jpg" crc="3863537577" seo="true" ref="clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_102.jpg" crc="4031372961" seo="true" ref="clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_062.jpg" crc="284828065" seo="true" ref="clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_072.jpg" crc="4196540345" seo="true" ref="clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_082.jpg" crc="280307774" seo="true" ref="clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="clearance_112.jpg" crc="3850390965" seo="true" ref="clearance">
+      <caption webpage="clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_022.jpg" crc="504498707" seo="true" ref="men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_032.jpg" crc="4269048089" seo="true" ref="men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_042.jpg" crc="478715719" seo="true" ref="men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_052.jpg" crc="4194016668" seo="true" ref="men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_062.jpg" crc="4036135060" seo="true" ref="men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_072.jpg" crc="317862851" seo="true" ref="men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="men-s-clearance_08.jpg" crc="3862043345" seo="true" ref="men-s-clearance">
+      <caption webpage="men-s-clearance" alt=""/>
+    </file>
+    <file name="cart_022.jpg" crc="361025578" seo="true" ref="cart">
+      <caption webpage="cart" alt=""/>
+    </file>
+    <file name="cart_03.jpg" crc="4172133109" seo="true" ref="cart">
+      <caption webpage="cart" alt=""/>
+    </file>
+    <file name="cart_04.jpg" crc="4163263118" seo="true" ref="cart">
+      <caption webpage="cart" alt=""/>
+    </file>
+    <file name="coupons_02.jpg" crc="4201843870" seo="true" ref="coupons">
+      <caption webpage="coupons" alt=""/>
+    </file>
+    <file name="coupons_03.jpg" crc="190761641" seo="true" ref="coupons">
+      <caption webpage="coupons" alt=""/>
+    </file>
+    <file name="coupons_05.jpg" crc="394072080" seo="true" ref="coupons">
+      <caption webpage="coupons" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="466671866" ref="phone>clearance:phone>coupons:phone>cart:phone>index:phone>men-s-clearance"/>
+      <file name="clearance.css" crc="454373436" ref="phone>clearance"/>
+      <file name="coupons.css" crc="377604348" ref="phone>coupons"/>
+      <file name="cart.css" crc="218071264" ref="phone>cart"/>
+      <file name="index.css" crc="4281261181" ref="phone>index"/>
+      <file name="men-s-clearance.css" crc="157661958" ref="phone>men-s-clearance"/>
+    </folder>
+    <file name="index.html" crc="4229169012" seo="true" mt="1493600619748" redirect="true"/>
+    <file name="clearance.html" crc="321057223" seo="true" mt="1493600619748" redirect="true"/>
+    <file name="men-s-clearance.html" crc="481533243" seo="true" mt="1493600619748" redirect="true"/>
+    <file name="cart.html" crc="4262602878" seo="true" mt="1493600619748" redirect="true"/>
+    <file name="coupons.html" crc="3793291192" seo="true" mt="1493600619748" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4007088743" seo="true" mt="1493600164802" redirect="true"/>
+  <file name="clearance.html" crc="3922147377" seo="true" mt="1493600164802" redirect="true"/>
+  <file name="men-s-clearance.html" crc="133590727" seo="true" mt="1493600164802" redirect="true"/>
+  <file name="cart.html" crc="16470944" seo="true" mt="1493600164802" redirect="true"/>
+  <file name="coupons.html" crc="127672653" seo="true" mt="1493600164802" redirect="true"/>
+</manifest>
